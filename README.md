@@ -29,3 +29,9 @@ now come to the browwer section
 browwer will enter the amount he want and he will get the data of those lenders who has more money than the reuired amount that can help him
 contact details will help him/her to get to it.
 
+///
+ans:-  It is fully centralized system as the lender can demand any intrest rate as he want 
+but if there was a bank in betwwen which is controlled by any government(so power will be distributed between lenders/govt. bank)
+then the lenders will demand in limit.
+
+So I tried to help the  borrower by giving him all the choice , he can select the best one. 
