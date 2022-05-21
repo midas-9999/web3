@@ -30,8 +30,7 @@ browwer will enter the amount he want and he will get the data of those lenders 
 contact details will help him/her to get to it.
 
 ///
-ans:-  It is fully centralized system as the lender can demand any intrest rate as he want 
-but if there was a bank in betwwen which is controlled by any government(so power will be distributed between lenders/govt. bank)
-then the lenders will demand in limit.
+ans:- It is a Decentralized loaning system, there is no involvement of any 3rd party like banks
+Money will be directly exchnged between lender and borrower & is done completely with the use of technology.
 
-So I tried to help the  borrower by giving him all the choice , he can select the best one. 
+this technology will help the borrower by giving him all the choice, he can select the best one and it also give direct contact detail of lender to borrower without involving any 3rd pary. 
