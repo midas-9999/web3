@@ -22,12 +22,12 @@ then go to lenders section again check the features
 (by 2 you can check your own  details by using ids)
 (by 3 you can compare yourself from other lenders )
 (by 4 you can check the intrest rate SI as well as CI
-(si usese polymorphism) that you are getting from your input demand
+that you are getting from your input demand
 
 
 now come to the browwer section 
-browwer will enter the amount he want and he will get the data of those lenders who has more money than the reuired amount that can help him
-contact details will help him/her to get to it.
+browwer will enter the amount he want and he will get the data of those lenders who has more money than the required amount that can help him.
+Contact details will help him/her to get to it.
 
 ///
 ans:- It is a Decentralized loaning system, there is no involvement of any 3rd party like banks
