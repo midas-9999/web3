@@ -9,5 +9,4 @@ Blockchains,Consensus Mechanisms, NFTs, DeFi.
 
 By the end, mentees will be able to implement smart contracts written in Solidity.
 
-Prerequisites: Object Oriented Programming, Basic understanding of Cryptography(recommended)
-
+Link for notes https://1drv.ms/w/s!AliP717N-zOJhBudrFpUnb4y1a4q
