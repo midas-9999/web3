@@ -1,4 +1,4 @@
-# decentralised loaning system
+# Decentralised loaning system
 so this is a loaning system 
 //woring 
 1st some lenders will submit their cash and some other details 
